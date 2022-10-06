@@ -1,12 +1,14 @@
-// data types
-// primitive data types
+//? data types
+//! primitive data types
 // 1.Number
 // 2.string
 // 3.boolean
 // 4.undefined
 // 5.null
 // 6.symbol
-// non-primitive data types
+
+
+//! non-primitive data types
 // 1.object
 
 let a = 'hello';
